@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    @vite(['resources/css/app.css', 'resources/js/app.js', 'resources/css/main.css'])
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
     <!-- AOS CSS -->
     <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
@@ -21,6 +21,7 @@
         content="Brainys ( Brainstorming Based on Artificial Intellegence System ) was developed by Oasys Edutech Indonesia." />
     <meta property="og:url" content="https://brainys.id/" />
     <meta property="og:site_name" content="Brainys" />
+    <link rel="shortcut icon" href="{{ url('images/newicon.png') }}">
 
 
     <title>Brainys</title>
