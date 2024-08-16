@@ -18,12 +18,12 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Brainys" />
     <meta property="og:description"
-        content="Brainys (Brainstorming Based on Artificial Intellegence System) was developed by Oasys Edutech Indonesia." />
+        content="Brainys ( Brainstorming Based on Artificial Intellegence System ) was developed by Oasys Edutech Indonesia." />
     <meta property="og:url" content="https://brainys.id/" />
     <meta property="og:site_name" content="Brainys" />
 
 
-    <title>{{ $title ?? config('app.name') }}</title>
+    <title>Brainys</title>
 </head>
 
 <body class="bg-white">

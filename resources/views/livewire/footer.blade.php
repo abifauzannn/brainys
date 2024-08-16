@@ -4,7 +4,7 @@
             <div class="row gx-5 pb-10 pt-[52px]">
                 <div class="col-12 mt-12 md:col-6 lg:col-3">
                     <a href="#">
-                        <img src="assets/images/logo.png" class="w-[160px] h-10" alt="" />
+                        <img src="#banner-section" class="w-[160px] h-10" alt="" />
 
                     </a>
                     <p class="mt-6">
@@ -63,16 +63,16 @@
                     <h6>Quick Links</h6>
                     <ul>
                         <li>
-                            <a href="about.html">Beranda</a>
+                            <a href="#banner-section">Beranda</a>
                         </li>
                         <li>
-                            <a href="#">Template</a>
+                            <a href="#key-feature-section">Template</a>
                         </li>
                         <li>
-                            <a href="#">Cara Kerja</a>
+                            <a href="#service-section">Cara Kerja</a>
                         </li>
                         <li>
-                            <a href="contact.html">Feedback</a>
+                            <a href="#review-section">Feedback</a>
                         </li>
                     </ul>
                 </div>
