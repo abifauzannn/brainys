@@ -4,7 +4,7 @@
             <div class="row gx-5 pb-10 pt-[52px]">
                 <div class="col-12 mt-12 md:col-6 lg:col-3">
                     <a href="#">
-                        <img src="#banner-section" class="w-[160px] h-10" alt="" />
+                        <img src="{{ asset('assets/images/logo.png') }}" class="w-[160px] h-10" alt="" />
 
                     </a>
                     <p class="mt-6">
