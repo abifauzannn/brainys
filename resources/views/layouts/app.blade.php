@@ -23,6 +23,7 @@
     <meta property="og:site_name" content="Brainys" />
     <meta property="og:image" content="{{ asset('assets/images/logo.png') }}" />
     <meta name="twitter:image" content="{{ asset('assets/images/logo.png') }}" />
+    <meta name="google-site-verification" content="Ed6Hah2Z8UPKD_BUfiR2ppZI0XQo5GzqT_UYQ0qBta4" />
     <link rel="shortcut icon" href="{{ asset('assets/images/newicon.png') }}" type="image/png">
 
 
