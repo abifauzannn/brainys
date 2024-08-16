@@ -21,6 +21,8 @@
         content="Brainys ( Brainstorming Based on Artificial Intellegence System ) was developed by Oasys Edutech Indonesia." />
     <meta property="og:url" content="https://brainys.id/" />
     <meta property="og:site_name" content="Brainys" />
+    <meta property="og:image" content="{{ asset('assets/images/logo.png') }}" />
+    <meta name="twitter:image" content="{{ asset('assets/images/logo.png') }}" />
     <link rel="shortcut icon" href="{{ asset('assets/images/newicon.png') }}" type="image/png">
 
 
