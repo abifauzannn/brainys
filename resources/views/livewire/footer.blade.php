@@ -79,7 +79,7 @@
                 <div class="col-12 mt-12 md:col-6 lg:col-3">
                     <h6>Location & Contact</h6>
                     <p>Kota Bandung, Jawa Barat, Indonesia</p>
-                    <p>Hubungu kami di 088-242-021-092 (WhatsApp)</p>
+                    <p>Hubungi kami di 088-242-021-092 (WhatsApp)</p>
                 </div>
             </div>
         </div>
