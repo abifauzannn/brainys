@@ -17,7 +17,7 @@
                     <p>hi@oasys.com</p>
                     <ul class="social-icons mt-4 lg:mt-6">
                         <li>
-                            <a href="https://www.facebook.com" target="_blank">
+                            <a href="mailto:hi@oasys.id?subject=Hello&body=This%20is%20a%20test">
                                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30"
                                     viewBox="0 0 30 30">
                                     <path
@@ -27,7 +27,8 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#" class="text-black">
+                            <a href="https://www.instagram.com/brainys.id/profilecard/?igsh=MW9jbzgzZjMxaTJhdA=="
+                                target="_blank" class="text-black">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                                     class="size-6">
                                     <path d="M12 9a3.75 3.75 0 1 0 0 7.5A3.75 3.75 0 0 0 12 9Z" />
@@ -38,7 +39,8 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#" class="text-black">
+                            <a href="https://www.instagram.com/oasys.id?igsh=MXQyZ2Ezczd3dmEyeQ%3D%3D&utm_source=qr"
+                                class="text-black" target="_blank">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                                     class="size-6">
                                     <path d="M12 9a3.75 3.75 0 1 0 0 7.5A3.75 3.75 0 0 0 12 9Z" />
@@ -49,7 +51,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#" class="text-black">
+                            <a href="https://wa.link/z2edgq" class="text-black" target="_blank">
                                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30"
                                     viewBox="0 0 30 30">
                                     <path
