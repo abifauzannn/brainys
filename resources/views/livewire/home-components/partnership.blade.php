@@ -8,13 +8,13 @@
             data-aos-easing="ease-in-out">
                 <img class="w-[13%] mt-9" src="assets/images/4nesia.png" alt="Banner Home Page"
                     loading="lazy" />
-                    <img class="w-[13%] mt-9" src="assets/images/wajo.png" alt="Banner Home Page"
+                    <img class="w-[9%] mt-9" src="assets/images/wajo.png" alt="Banner Home Page"
                     loading="lazy" />
                     <img class="w-[13%] mt-9" src="assets/images/xendit.png" alt="Banner Home Page"
                     loading="lazy" />
-                    <img class="w-[9%] mt-9" src="assets/images/pgri.png" alt="Banner Home Page"
+                    <img class="w-[7%] mt-9" src="assets/images/pgri.png" alt="Banner Home Page"
                     loading="lazy" />
-                    <img class="w-[9%] mt-9" src="assets/images/oasys.png" alt="Banner Home Page"
+                    <img class="w-[7%] mt-9" src="assets/images/oasys.png" alt="Banner Home Page"
                     loading="lazy" />
             </div>
         </div>
